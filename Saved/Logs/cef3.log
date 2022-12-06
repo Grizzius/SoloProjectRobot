@@ -11,3 +11,34 @@
 [1109/181344.636:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
 [1109/181344.636:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
 [1109/181344.636:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1111/050315.515:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 1 time(s)
+[1111/050316.681:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050316.720:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 2 time(s)
+[1111/050316.727:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 3 time(s)
+[1111/050316.733:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 4 time(s)
+[1111/050316.740:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 5 time(s)
+[1111/050316.746:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 6 time(s)
+[1111/050317.014:ERROR:browser_gpu_channel_host_factory.cc(153)] Failed to launch GPU process.
+[1111/050317.015:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050317.351:ERROR:browser_gpu_channel_host_factory.cc(153)] Failed to launch GPU process.
+[1111/050317.352:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050317.357:ERROR:browser_gpu_channel_host_factory.cc(153)] Failed to launch GPU process.
+[1111/050317.360:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050317.687:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050317.695:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050318.021:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050318.029:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050318.357:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050318.365:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050318.690:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050318.697:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050319.030:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050319.038:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050319.362:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050319.370:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050319.696:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050319.704:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050320.032:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050320.040:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050320.365:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1111/050320.373:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
